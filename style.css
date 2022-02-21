@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lobster', cursive;
+}
+img{
+    width: 100%;
+}
+h2{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(176, 1, 255);
+}
+table{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    font-size: x-large;
+    color: rgb(152, 5, 243);
+}
+td{
+    border: 1px solid black;
+}
+.price{
+    color: rgb(253, 58, 10);
+}
+footer{
+    text-align: center;
+}
